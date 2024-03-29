@@ -10,7 +10,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        theme: '#0275D8'
+        theme: '#0275D8',
+        border: '#CED4DA'
       }
     },
   },
