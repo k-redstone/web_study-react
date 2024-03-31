@@ -1,8 +1,22 @@
-# React + Vite
+# 급식알리미 ver_React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 환경 및 라이브러리
 
-Currently, two official plugins are available:
+- node : 20.13.0
+- React : 18.2.0
+- react-router-dom : 6.22.3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 실행
+
+```javascript
+// npm 설치
+npm i
+
+// 실행
+npm run dev
+```
+
+## Router Info
+
+- / : 메인페이지
+- /login : 로그인 후 이동되는 페이지
