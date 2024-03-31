@@ -2,7 +2,7 @@
 
 ## 환경 및 라이브러리
 
-- node : 20.13.0
+- node : 20.12.0
 - React : 18.2.0
 - react-router-dom : 6.22.3
 
